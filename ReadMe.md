@@ -1,7 +1,7 @@
 # Roblox Scripter | Python & Web Developer
 
 ### About Me  
-Hello, my name is Unstable, and I'm a Roblox scripter with a year + of experience in Luau I've also worked with several other languages, allowing me to approach problems from different perspectives and learn new languages along the way.
+Hello, my name is Unstable, and I'm a Roblox scripter with 2+ years of experience in Luau I've also worked with several other languages, allowing me to approach problems from different perspectives and learn new languages along the way.
 
 ### What I Can Do Roblox Related
 ✅ Simulator scripts  
