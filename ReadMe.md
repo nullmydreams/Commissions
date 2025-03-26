@@ -1,4 +1,4 @@
-# Roblox Scripter | Python & Web Developer
+# Roblox Scripter & Web Developer
 
 ### About Me  
 Hello, my name is Unstable, and I'm a Roblox scripter with 2+ years of experience in Luau I've also worked with several other languages, allowing me to approach problems from different perspectives and learn new languages along the way.
@@ -12,6 +12,7 @@ Hello, my name is Unstable, and I'm a Roblox scripter with 2+ years of experienc
 ### What i can do outside of roblox
 ✅ Discord bots *(reasonable price)*  
 ✅ Portfolios *(reasonable price)* 
+✅ Forums *(reasonable price)* 
 
 ### What I Don't Do  
 ❌ Guns  
@@ -20,10 +21,10 @@ Hello, my name is Unstable, and I'm a Roblox scripter with 2+ years of experienc
 
 ### Payment   
 💵 **USD:** $10.00+  
-📌 **Payment** Type: Per task (If you're interested in hiring me for long-term development, we can discuss pricing).  
+📌 **Payment** Type: Per task (If you're interested in hiring me for long-term development / short-term development, we can discuss pricing).  
 
 ### Contacts 
-📬 Discord: @nullmydreams   
+📬 Discord: @nullmydreams
 ---
 
 Feel free to reach out if you need a scripter, Discord bot, or a personal portfolio to show your work.
